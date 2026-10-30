@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_INFINIX-X551.mk
+    $(LOCAL_DIR)/omni_X551.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_INFINIX-X551-user \
-    omni_INFINIX-X551-userdebug \
-    omni_INFINIX-X551-eng
+       omni_X551-user \
+       omni_X551-userdebug \
+       omni_X551-eng
