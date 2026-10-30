@@ -5,4 +5,4 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-LOCAL_PATH := device/infinix/INFINIX-X551
+LOCAL_PATH := device/infinix/X551

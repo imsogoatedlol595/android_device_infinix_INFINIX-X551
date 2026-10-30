@@ -12,10 +12,10 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, vendor/omni/config/common.mk)
 
 # Inherit from INFINIX-X551 device
-$(call inherit-product, device/infinix/INFINIX-X551/device.mk)
+$(call inherit-product, device/infinix/X551/device.mk)
 
-PRODUCT_DEVICE := INFINIX-X551
-PRODUCT_NAME := omni_INFINIX-X551
+PRODUCT_DEVICE := X551
+PRODUCT_NAME := omni_X551
 PRODUCT_BRAND := INFINIX
 PRODUCT_MODEL := INFINIX-X551
 PRODUCT_MANUFACTURER := infinix
