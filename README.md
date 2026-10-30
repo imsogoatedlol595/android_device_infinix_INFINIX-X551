@@ -1,1 +1,10 @@
-# android_device_infinix_g808
+# Android device tree for INFINIX INFINIX-X551 (INFINIX-X551)
+
+```
+#
+# Copyright (C) 2026 The Android Open Source Project
+# Copyright (C) 2026 SebaUbuntu's TWRP device tree generator
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+```
